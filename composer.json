@@ -1,5 +1,5 @@
 {
-	"name": "lambda-solutions/moodle-qtype_truefalsewiris",
+	"name": "lambda-solutions/qtype_truefalsewiris",
 	"description": "Wiris question type true or false",
         "license": "GPL-3.0",
 	"type": "moodle-qtype",
